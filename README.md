@@ -19,9 +19,9 @@ example:</br>
 https://github.com/lbryio/lbrycrd/compare/master...juanpc2018:lbrycrd:master </p>
 
 just 1 change, and becomes impossible to build. </br>
-Boost Deletec 1 function, making the whole code useless. </p>
+Boost 1.80 Deleted 1 function, making the whole code useless. </p>
 
-its too crazy to manually edit 10000 deprecated functions just to compile on a New OS,</br>
+its too crazy to manually edit 100000 deprecated functions just to compile on a New OS,</br>
 even with copy & paste is too much.</p>
 
 ------
@@ -81,5 +81,5 @@ There is No real progress using docks.</br>
 like accelerating the wheels in wet or oil floor, spins very fast, but does Not move forward...</br>
 stuck in time.</p>
 
-The "easy way" is to train A.I. for each OS version, Boost version, xgWidgets, GTK version, etc...
-The Har
+The "easy way" is to train A.I. for each OS version, Boost version, wxWidgets, GTK version, etc...
+
