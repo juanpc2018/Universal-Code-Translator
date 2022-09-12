@@ -86,5 +86,9 @@ stuck in time.</p>
 
 https://youtu.be/ro2pf0hheIc?t=14 </p>
 
+There is No way to know if code is becomming better or worse, without comparing the </br>
+same code compiled in different OS versions. </br>
+increasing a number on the title, thats crazy. </p>
+
 The "easy way" is to train A.I. for each OS version, Boost version, wxWidgets, GTK version, etc...
 
