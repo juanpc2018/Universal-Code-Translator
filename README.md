@@ -11,7 +11,8 @@ when compiling on a different linux or OSX.</br>
 gives errors about deprecated functions...</br>
 you should replace "this" with "this"...</br>
 some code becomes broken and impossible to build. </br>
-New code is Not backward compatible.</p>
+New code is Not backward compatible.</br>
+its crazy you can crosscopile to different CPU & OS architecture, but Not to the same OS.</p>
 
 example:</br>
 https://github.com/lbryio/lbrycrd/compare/master...juanpc2018:lbrycrd:master </p>
