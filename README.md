@@ -1,9 +1,10 @@
 ## Universal Code Translator</p>
 
 Proposal idea: </br>
-Github is becoming a graveyard of dead code. </br>
+Github is becoming a graveyard of dead code. </p>
+
 a common problem across all linux builds and OSX.</br>
-a code is designed using Ubuntu 17, compiles & works, but only in Ubuntu 17.</br>
+code is designed using Ubuntu 17, compiles & works, but only in Ubuntu 17.</br>
 the same code becomes deprecated in 20.04.4 LTS,</br>
 and super deprecated in 22.04 LTS</br>
 similar OSX SnowLeopard, or OSX Mavericks, or OSX HighSierra or OSX Catalina</br>
