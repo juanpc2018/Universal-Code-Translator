@@ -84,5 +84,7 @@ There is No real progress using docks.</br>
 like accelerating the wheels in wet or oil floor, spins very fast, but does Not move forward...</br>
 stuck in time.</p>
 
+https://youtu.be/ro2pf0hheIc?t=14 </p>
+
 The "easy way" is to train A.I. for each OS version, Boost version, wxWidgets, GTK version, etc...
 
