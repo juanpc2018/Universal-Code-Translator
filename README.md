@@ -19,7 +19,10 @@ example:</br>
 https://github.com/lbryio/lbrycrd/compare/master...juanpc2018:lbrycrd:master </p>
 
 just 1 change, and becomes impossible to build. </br>
-Boost 1.80 Deleted 1 function, making the whole code useless. </p>
+Boost 1.80 Deleted 1 function, making the whole code useless. </br>
+like a Card Castle, worse than Jenga.</p>
+
+https://youtu.be/ivgKaQanz5k </p>
 
 its too crazy to manually edit 100000 deprecated functions just to compile on a New OS,</br>
 even with copy & paste is too much.</p>
