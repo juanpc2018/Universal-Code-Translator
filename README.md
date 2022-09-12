@@ -10,12 +10,14 @@ similar OSX SnowLeopard, or OSX Mavericks, or OSX HighSierra or OSX Catalina</br
 when compiling on a different linux or OSX.</br>
 gives errors about deprecated functions...</br>
 you should replace "this" with "this"...</br>
-some code becomes broken and impossible to build.</p>
+some code becomes broken and impossible to build. </br>
+New code is Not backward compatible.</p>
 
-for example:</br>
+example:</br>
 https://github.com/lbryio/lbrycrd/compare/master...juanpc2018:lbrycrd:master </p>
 
-just 1 change, and becomes impossible to build. </p>
+just 1 change, and becomes impossible to build. </br>
+Boost Deletec 1 function, making the whole code useless. </p>
 
 its too crazy to manually edit 10000 deprecated functions just to compile on a New OS,</br>
 even with copy & paste is too much.</p>
