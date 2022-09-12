@@ -10,7 +10,7 @@ and super deprecated in 22.04 LTS</br>
 similar OSX SnowLeopard, or OSX Mavericks, or OSX HighSierra or OSX Catalina</br>
 when compiling on a different linux or OSX.</br>
 gives errors about deprecated functions...</br>
-you should replace "this" with "this"...</br>
+you should replace "this" with "this"...read the manual.</br>
 some code becomes broken and impossible to build. </br>
 New code is Not backward compatible.</br>
 its crazy you can crosscopile to different CPU & OS architecture, but Not to the same OS.</p>
